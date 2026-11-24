@@ -159,7 +159,7 @@ address { font-style: normal; }
 .nav-toggle[aria-expanded="true"] .nav-toggle__bars::before { transform: translateY(6px) rotate(45deg); }
 .nav-toggle[aria-expanded="true"] .nav-toggle__bars::after { transform: translateY(-6px) rotate(-45deg); }
 
-@media (max-width: 960px) {
+@media (max-width: 1100px) {
   :root { --header-h: 68px; }
   .brand__mark { width: 60px; }
   .brand__name { font-size: 1.25rem; }

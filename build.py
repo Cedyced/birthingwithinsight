@@ -18,7 +18,7 @@ SRC, CONTENT, OUT = ROOT / 'src', ROOT / 'content', ROOT / 'docs'
 SITE_URL = 'https://www.birthingwithinsight.ca'
 # Path prefix when served from https://<user>.github.io/<repo>/ before the custom
 # domain is live, e.g. BASE = '/birthingwithinsight'. Leave '' for the custom domain.
-BASE = '/birthingwithinsight'  # GitHub test address; set to '' when switching birthingwithinsight.ca to GitHub Pages
+BASE = ''  # live on www.birthingwithinsight.ca; use '/birthingwithinsight' only to test on cedyced.github.io
 CNAME = 'www.birthingwithinsight.ca'
 
 # cal.com booking. Leave 'username' empty to show the "book by email/phone" fallback.
