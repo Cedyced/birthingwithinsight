@@ -14,7 +14,7 @@ This file is the single source of truth for requirements. Read it before any cha
   |---|---|---|---|
   | In Person Prenatal Class | EN | $70 | 2.5 h session |
   | Cours prénatal en présentiel | FR | $70 | 2.5 h session |
-  | Full Day Prenatal & Newborn Care | EN | $150 | 9 a.m.–4 p.m. Morning: maternal recovery + newborn care/feeding (Certified Lactation Consultant); 45-min lunch; afternoon: labour & delivery. Covered by most insurance |
+  | Full Day Prenatal & Newborn Care | EN | $150 | 9:30 a.m.–4:30 p.m. Morning: maternal recovery + newborn care/feeding (Certified Lactation Consultant); 45-min lunch; afternoon: labour & delivery. Covered by most insurance |
 - Ideal timing: 25–35 weeks gestation (everyone welcome at any point).
 
 ## Requirements

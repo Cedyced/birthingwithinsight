@@ -103,7 +103,7 @@ SERVICES = [
         'price': 150, 'image': 'service-fullday.jpg', 'taught': None,
         'en': {
             'name': 'Full Day Prenatal & Newborn Care',
-            'duration': 'Full day · 9 a.m. – 4 p.m.',
+            'duration': 'Full day · 9:30 a.m. – 4:30 p.m.',
             'summary': 'Led by our Registered Nurse and a Certified Lactation Consultant. Covered by most insurance companies.',
             'body': [
                 '## Morning — Maternal wellness & recovery',
@@ -124,7 +124,7 @@ SERVICES = [
         },
         'fr': {  # FR: review — translated from the English service description
             'name': 'Journée complète : prénatal et soins du nouveau-né',
-            'duration': 'Journée complète · 9 h à 16 h',
+            'duration': 'Journée complète · 9 h 30 à 16 h 30',
             'summary': "Animée par notre infirmière autorisée et une consultante en lactation certifiée. Couverte par la plupart des assurances.",
             'body': [
                 '## Matin — Bien-être maternel et rétablissement',
